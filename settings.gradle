@@ -1,4 +1,3 @@
-include ':lamp-core'
-include ':sensor-core'
+include ':lamp_kotlin'
 include ':app'
 rootProject.name = "Lamp-Kotlin-Test"
